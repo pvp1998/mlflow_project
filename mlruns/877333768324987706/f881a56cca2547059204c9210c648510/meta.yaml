@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/vidyaprakashperam/PycharmProjects/mlops_project/mlruns/877333768324987706/f881a56cca2547059204c9210c648510/artifacts
+end_time: 1712533874009
+entry_point_name: ''
+experiment_id: '877333768324987706'
+lifecycle_stage: active
+run_id: f881a56cca2547059204c9210c648510
+run_name: upbeat-mole-916
+run_uuid: f881a56cca2547059204c9210c648510
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712533872405
+status: 3
+tags: []
+user_id: vidyaprakashperam
