@@ -46,7 +46,9 @@ if __name__ == "__main__":
     alpha = args.alpha
     l1_ratio = args.l1_ratio
 
-    exp = mlflow.set_experiment(experiment_name = "linear_regression")
+    mlflow.set_tracking_uri("")
+
+    exp = mlflow.set_experiment(experiment_name = "file:///Users/vidyaprakashperam/PycharmProjects/mlops_project/LR_URI")
 
     with mlflow.start_run(experiment_id = exp.experiment_id):
 
