@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/vidyaprakashperam/PycharmProjects/mlops_project/mlruns/565652778220723439/36b54c50e8cd4ddbba4ce0dcba7bced5/artifacts
+end_time: 1712456854466
+entry_point_name: ''
+experiment_id: '565652778220723439'
+lifecycle_stage: active
+run_id: 36b54c50e8cd4ddbba4ce0dcba7bced5
+run_name: defiant-chimp-693
+run_uuid: 36b54c50e8cd4ddbba4ce0dcba7bced5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712456852888
+status: 3
+tags: []
+user_id: vidyaprakashperam

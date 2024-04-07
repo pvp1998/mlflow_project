@@ -1,0 +1,6 @@
+artifact_location: file:///Users/vidyaprakashperam/PycharmProjects/mlops_project/mlruns/565652778220723439
+creation_time: 1712456240262
+experiment_id: '565652778220723439'
+last_update_time: 1712456240262
+lifecycle_stage: active
+name: linear_regression

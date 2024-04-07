@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/vidyaprakashperam/PycharmProjects/mlops_project/mlruns/565652778220723439/fdbf7afa380f4b04badc4f22df7f4e55/artifacts
+end_time: 1712456245386
+entry_point_name: ''
+experiment_id: '565652778220723439'
+lifecycle_stage: active
+run_id: fdbf7afa380f4b04badc4f22df7f4e55
+run_name: peaceful-flea-94
+run_uuid: fdbf7afa380f4b04badc4f22df7f4e55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712456240584
+status: 3
+tags: []
+user_id: vidyaprakashperam
