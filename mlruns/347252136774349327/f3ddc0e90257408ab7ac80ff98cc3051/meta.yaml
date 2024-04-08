@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/vidyaprakashperam/PycharmProjects/mlops_project/mlruns/347252136774349327/f3ddc0e90257408ab7ac80ff98cc3051/artifacts
+end_time: 1712534746746
+entry_point_name: ''
+experiment_id: '347252136774349327'
+lifecycle_stage: active
+run_id: f3ddc0e90257408ab7ac80ff98cc3051
+run_name: whimsical-fawn-287
+run_uuid: f3ddc0e90257408ab7ac80ff98cc3051
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712534745162
+status: 3
+tags: []
+user_id: vidyaprakashperam
