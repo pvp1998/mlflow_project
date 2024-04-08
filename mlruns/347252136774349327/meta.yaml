@@ -1,0 +1,6 @@
+artifact_location: file:///Users/vidyaprakashperam/PycharmProjects/mlops_project/mlruns/347252136774349327
+creation_time: 1712534745031
+experiment_id: '347252136774349327'
+last_update_time: 1712534745031
+lifecycle_stage: active
+name: LR_create_experiment
